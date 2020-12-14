@@ -1,3 +1,3 @@
-# Welcome to my blog
+# The {deg} page
 
-I'm glad you are here. I plan to talk about ...
+trying to put these page together 
